@@ -2,7 +2,7 @@ repo_name: 2lambda123/Ackee
 report_id: f2e3cba1d2436f9e2aa9d40c2652534a
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T21:05:18+00:00'
+timestamp: '2024-01-05T08:14:34+00:00'
 requested_by: 2lambda123
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/Ackee
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -40,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/6361/default_8c8faac34fdcb5b696503f5166b5232ad0adcf6e.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/package.json
   detection_source: package.json
   last_updated_by: Tobias Reich
   last_updated_on: 2021-06-06 09:27:56.000000000 Z
@@ -65,6 +67,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/package.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-12-29 20:50:05.000000000 Z
@@ -104,6 +107,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/package.json
   detection_source: package.json
   last_updated_by: Tobias Reich
   last_updated_on: 2021-09-18 09:46:08.000000000 Z
@@ -116,6 +120,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/2lambda123/Ackee
   detection_source: Repo Metadata
 - name: Docker Compose
   description: Define and run multi-container applications with Docker
@@ -126,6 +131,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Tobias Reich
   last_updated_on: 2019-02-23 20:55:53.000000000 Z
@@ -138,6 +144,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/package.json
   detection_source: package.json
   last_updated_by: Tobias Reich
   last_updated_on: 2022-02-26 13:12:03.000000000 Z
@@ -149,6 +156,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/Ackee
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -158,6 +166,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/.github/workflows/build.yml
   detection_source: ".github/workflows/build.yml"
   last_updated_by: Tobias Reich
   last_updated_on: 2021-01-16 12:09:41.000000000 Z
@@ -170,6 +179,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/4793/Powered_by_Micro__3_.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/package.json
   detection_source: package.json
   last_updated_by: Tobias Reich
   last_updated_on: 2022-12-14 15:20:04.000000000 Z
@@ -181,6 +191,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Tobias Reich
   last_updated_on: 2020-11-08 11:34:51.000000000 Z
@@ -206,6 +217,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/package.json
   detection_source: package.json
   last_updated_by: Tobias Reich
   last_updated_on: 2018-06-09 13:01:41.000000000 Z
@@ -218,6 +230,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/5508/CyUH653y.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/package.json
   detection_source: package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-08-30 21:54:12.000000000 Z
@@ -230,6 +243,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/netlify.toml
   detection_source: netlify.toml
   last_updated_by: Tobias Reich
   last_updated_on: 2020-09-08 15:06:41.000000000 Z
@@ -241,6 +255,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/7618/bHjpwZem_400x400.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/vercel.json
   detection_source: vercel.json
   last_updated_by: Spencer Elliott
   last_updated_on: 2020-11-01 21:31:14.000000000 Z
@@ -251,6 +266,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/Dockerfile
   detection_source: Dockerfile
   last_updated_by: Tobias Reich
   last_updated_on: 2020-11-21 19:22:57.000000000 Z
@@ -263,6 +279,7 @@ tools:
   category: Mobile
   sub_category: Cross-Platform Mobile Tools
   image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/package.json
   detection_source: package.json
   last_updated_by: Tobias Reich
   last_updated_on: 2022-04-30 10:37:20.000000000 Z
@@ -275,6 +292,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/2lambda123/Ackee/blob/master/package.json
   detection_source: package.json
   last_updated_by: Tobias Reich
   last_updated_on: 2022-04-30 10:37:20.000000000 Z
